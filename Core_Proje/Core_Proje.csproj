@@ -5,6 +5,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\Template\images\illustrations\building_websites.svg" />
+    <None Include="wwwroot\Template\images\illustrations\creative-team.svg" />
+    <None Include="wwwroot\Template\images\illustrations\development.svg" />
+    <None Include="wwwroot\Template\images\illustrations\website-app.svg" />
+    <None Include="wwwroot\Template\images\illustrations\work-chat.svg" />
+    <None Include="wwwroot\Template\images\illustrations\work-together.svg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.15" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.15">
       <PrivateAssets>all</PrivateAssets>
